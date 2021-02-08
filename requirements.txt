@@ -1,0 +1,6 @@
+Flask==1.1.2
+Jinja2==2.11.2
+jsonschema==3.2.0
+requests==2.25.1
+waitress==1.4.4
+wheel==0.36.2
